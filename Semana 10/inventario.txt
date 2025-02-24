@@ -1,0 +1,1 @@
+[{"id_producto": "1", "nombre": "cafe", "cantidad": 2, "precio": 2.0}]
